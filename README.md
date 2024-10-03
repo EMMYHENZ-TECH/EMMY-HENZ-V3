@@ -69,7 +69,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 --------
 
-### ***[`JOIN WHATSAPP`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
+### ***[`FOLLOW OUR WHATSAPP CHANNEL FOR MORE UPDATES`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
 
 -------
 
