@@ -21,12 +21,12 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### PAIRING SERVER 1
 --------
-### ***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION SESSION_ID`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
 --------|
 
 ### PAIRING SERVER 2
 --------
-### ***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION SESSION_ID`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
 --------|
 
 
