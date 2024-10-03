@@ -26,7 +26,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### PAIRING SERVER 2
 --------
-***Get [`SESSION CRED.JS`]()  by pairing code. `WhatsApp>***
+***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
 --------|
 
 
@@ -69,7 +69,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 --------
 
-***[`JOIN WHATSAPP`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
+### ***[`JOIN WHATSAPP`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
 
 -------
 
