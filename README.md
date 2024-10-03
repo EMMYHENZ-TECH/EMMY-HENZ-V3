@@ -21,12 +21,12 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### PAIRING SERVER 1
 --------
-***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
 --------|
 
 ### PAIRING SERVER 2
 --------
-***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION CRED.JS`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
 --------|
 
 
@@ -40,7 +40,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### BOT HOSTING PANEL LINK
 
-***[`Deploy`](https://bot-hosting.net/?aff=1271741477571006527)***
+### ***[`Deploy`](https://bot-hosting.net/?aff=1271741477571006527)***
 
 
 `AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO start.js`
@@ -50,7 +50,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### DEPLOY ON HEROKU 
 
-***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3)***
+***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3)***
 
 --------
 
