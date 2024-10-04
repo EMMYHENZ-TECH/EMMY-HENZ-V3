@@ -12,7 +12,7 @@ global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Calabar";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Rivers";
 global.github = process.env.GITHUB || "https://github.com/EMMYHENZ-TECH";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.0.0",
-  caption: process.env.CAPTION || "`EMMY_HENZ-V3™`",
-  author: process.env.PACK_AUTHER || "EMMY_HENZ-V3",
+  caption: process.env.CAPTION || "TALEX_JNR™`",
+  author: process.env.PACK_AUTHER || "TALEX_JNR",
   packname: process.env.PACK_NAME || "E M M Y",
-  botname: process.env.BOT_NAME || "EMMY_HENZ-V3",
-  ownername: process.env.OWNER_NAME || "Emmanuel Henshaw",
+  botname: process.env.BOT_NAME || "TALEX_JNR",
+  ownername: process.env.OWNER_NAME || "TALEX_JNR",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
