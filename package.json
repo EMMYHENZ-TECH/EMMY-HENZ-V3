@@ -5,12 +5,12 @@
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name EMMY_HENZ-V3 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name EMMY_HENZ-V3 || node .",
-      "start": "pm2 start . --attach --name EMMY_HENZ-V3",
-      "stop": "pm2 stop EMMY_HENZ-V3",
-      "heroku-postbuild": "git clone https://github.com/EMMYHENZ-TECH/EMMY_HENZ-V3 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/EMMYHENZ-TECH/EMMY_HENZ-V3.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name EMMY-HENZ-V3 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name EMMY-HENZ-V3 || node .",
+      "start": "pm2 start . --attach --name EMMY-HENZ-V3",
+      "stop": "pm2 stop EMMY-HENZ-V3",
+      "heroku-postbuild": "git clone https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "EMMY HENZ",
@@ -76,10 +76,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/EMMYHENZ-TECH/EMMY_HENZ-V3.git"
+      "url": "git+https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3.git"
    },
    "bugs": {
-      "url": "https://github.com/EMMYHENZ-TECH/EMMY_HENZ-V3/issues"
+      "url": "https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3/issues"
    },
-   "homepage": "https://github.com/EMMYHENZ-TECH/EMMY_HENZ-V3#readme"
+   "homepage": "https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3#readme"
 }
