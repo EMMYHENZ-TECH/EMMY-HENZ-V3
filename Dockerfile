@@ -1,23 +1,20 @@
-FROM node:lts-buster
+# Start from the Node.js base image
+FROM node:20
 
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  npm i pm2 -g && \
-  rm -rf /var/lib/apt/lists/*
-  
-RUN gitclone https://github.com/DeeCeeXxx/Queen-Anita-V2
+# Set the working directory inside the container
+WORKDIR /app
 
+# Copy `package.json` and `package-lock.json` (if available) separately
+COPY package*.json ./
 
-COPY package.json .
-RUN npm install pm2 -g
-RUN npm install --legacy-peer-deps
+# Install dependencies before copying the rest of the files
+RUN npm install
 
+# Copy all other files into the working directory
 COPY . .
 
-EXPOSE 3000
+# Expose the port (default to 7860, or use an environment variable)
+EXPOSE ${PORT:-7860}
 
-CMD ["npm","start" ]
+# Run the start script
+CMD ["bash", "start.sh"]
